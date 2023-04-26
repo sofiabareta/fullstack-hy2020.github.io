@@ -173,6 +173,8 @@ const App = () => {
     </div>
   )
 }
+  
+export default App
 ```
 
 Qualquer código JavaScript dentro das chaves é avaliado e o resultado desta avaliação é incorporado no lugar definido no HTML produzido pelo componente.
